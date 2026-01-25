@@ -1,0 +1,6 @@
+Name: Nnebedum Chiamaka
+Matric Number: 22CH032033
+Machine Learning Algorithm Used: Logistic Regression (via Scikit-Learn Pipeline)
+Model persistence method used: Joblib
+Live URL of the hosted application: https://bychiamaka-breast-cancer.streamlit.app/
+GitHub repository link: https://github.com/ByChiamaka/Breast-Cancer-Project
